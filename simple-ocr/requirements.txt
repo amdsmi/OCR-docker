@@ -1,0 +1,9 @@
+tensorflow>=2.8.0
+numpy>=1.21.2
+tf2onnx>=1.9.3
+pandas>=1.4.0
+sklearn>=0.0
+scikit-learn>=1.0.2
+opencv-python>=4.5.5.62
+onnxruntime>=1.8.0
+tqdm >= 4.62.3
